@@ -18,7 +18,6 @@
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smahdimozi&show_icons=true&locale=en&layout=compact" alt="smahdimozi" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=smahdimozi&" alt="smahdimozi" />
 </div>
 
 
